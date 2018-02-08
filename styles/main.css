@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+.clearfix:after {
+    content: '';
+    width: 100%;
+    clear: both;
+    display: table;
+}
+header {
+   background: #082841 100%;
+   color: #FFF;   
+   width: 1440px; 
+   font-family: Helvetica, Arial;
+}
+
+.image-container {
+    width: 552px;
+    height: 672px;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+
+.image-container img {
+    width: 552px;
+} 
+
+.title{
+    margin-left: 648px;
+}
+.title h2{
+    margin-top: 0px;
+    padding-top: 65px;
+}
+
+.title h1{
+    font-size: 40px;
+}
+
+header p {
+    width: 944px;
+    margin: 0 auto;
+}
+
+
+header p {
+    margin-top: 234px;
+    float: right;
+    width: 544px;
+    font-size: 20px;
+}
+
