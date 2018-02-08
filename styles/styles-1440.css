@@ -16,11 +16,13 @@ body {
   * html .clearfix { height: 1%; }
   .clearfix { display: block; }
   /* close commented backslash hack */
-header {
+.wrapper {
+    width: 1440px; 
+    margin: 0 auto;
+}
+  header {
    background: #082841 100%;
    color: #FFF;   
-   width: 1440px; 
-   margin: 0 auto;
 }
 
 .image-container {
