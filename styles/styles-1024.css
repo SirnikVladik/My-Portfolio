@@ -19,7 +19,7 @@ body {
 header {
    background: #082841 100%;
    color: #FFF;   
-   width: 768px;
+   width: 1024px;
    margin: 0 auto;
 }
 
@@ -37,17 +37,17 @@ header {
 
 .inner-header {
     float: left;
-    height: 518px;
-    width: 544px;
-    padding-left: 96px;
+    height: 606px;
+    width: 464px;
+    padding-left: 95px;
     padding-top: 65px;
     
 }
 
 .header-title {
     height: 88px;
-    width: 402px;
-    padding-bottom: 234px;
+    width: 464px;
+    padding-bottom: 266px;
     font-weight: bold;
 }
 
@@ -55,9 +55,7 @@ header {
     color: #FFF;
     margin: 0px;
     padding-bottom: 11px;
-    font-size: 24px;
-    
-    
+    font-size: 29px;
 }
 
 .header-title .title-2 p{
@@ -67,8 +65,8 @@ header {
 }
 
 .header-text {
-    height: 196px;
-    width: 544px;
+    height: 252px;
+    width: 464px;
     font-family: Georgia;
     line-height: 1.43em;    
     font-size: 20px;
