@@ -28,7 +28,6 @@ header {
     height: 672px;
     float: left;
     overflow: hidden;
-    position: relative;
 }
 
 .image-container img {

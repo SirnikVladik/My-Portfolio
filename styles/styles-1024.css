@@ -28,7 +28,6 @@ header {
     height: 768px;
     float: left;
     overflow: hidden;
-    position: relative;
 }
 
 .image-container img {
@@ -56,13 +55,13 @@ header {
     color: #FFF;
     margin: 0px;
     padding-bottom: 11px;
-    font-size: 29px;
+    font-size: 24px;
 }
 
 .header-title .title-2 p{
     color: #FFF;
     margin: 0px;
-    font-size: 48px;
+    font-size: 40px;
 }
 
 .header-text {
