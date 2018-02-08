@@ -20,6 +20,7 @@ header {
    background: #082841 100%;
    color: #FFF;   
    width: 1440px; 
+   margin: 0 auto;
 }
 
 .image-container {
