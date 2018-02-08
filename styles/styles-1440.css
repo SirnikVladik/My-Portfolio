@@ -32,7 +32,8 @@ header {
 }
 
 .image-container img {
-    width: 552px;
+    width: 600px;
+    height: 800px;
 } 
 
 .inner-header {
