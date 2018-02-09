@@ -40,9 +40,11 @@ header {
 }
 
 .image-container img {
-    width: 412.5px;
-    height: 550px;
-    margin: 0 auto;
+    width: 450px;
+    height: 600px;    
+    position: absolute;
+    top: -80px;
+    left: 0px;
 } 
 
 .inner-header {
