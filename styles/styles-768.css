@@ -4,6 +4,7 @@ body {
     font-family: Helvetica, sans-serif, Arial;
     text-align: center;
 }
+
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -90,4 +91,83 @@ header {
 .header-text p {
     color: #FFF;
     margin: 0; 
+}
+
+expectation {
+    background: #FFF;
+}
+
+content {
+    width: 704px;
+    margin: 0 auto;
+}
+
+.title {
+    width: 297px;
+    margin: 0 auto;
+    margin-top: 91px;
+    margin-bottom: 13px;
+}
+
+.title p{
+    font-size: 32px;
+    color: #000;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.float-box{
+    width: 704px;
+    height: 448px;
+    margin: 0 auto;
+}
+
+.text-block {
+    background: linear-gradient(180deg, #E6F0F0, #E9F0E6);
+    width: 304px;
+    height: 304px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.inner-text-block {
+    width: 248px;
+    margin-left: 24px;
+}
+
+.inner-text-block p{
+    margin: 0;
+    text-align: left;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+.text {
+    padding-top: 24px;
+}
+
+.slider {
+    margin-bottom: 83px;
+    display: none;
+}
+
+.dot {
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #DD3E18;
+    margin:  0 12px;
+    width: 8px;
+    height: 8px;
+    display: inline-block;
+}
+
+.dot:focus {
+    background-color: #000;    
+    outline: none;
 }
